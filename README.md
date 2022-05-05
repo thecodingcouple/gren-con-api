@@ -2,6 +2,8 @@
 
 Source code for https://www.gren-con.com api (Work in progress)
 
+[Click here](https://github.com/thecodingcouple/gren-con-client) to view source code for the client.
+
 ## Synopsis
 
 ## Built With
